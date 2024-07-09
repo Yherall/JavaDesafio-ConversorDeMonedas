@@ -1,0 +1,36 @@
+*************************************
+Moneda Base: CLP
+Moneda a Cambiar: USD
+Cantidad: 100000
+Total: $100000.0 CLP Equivale a: $108.6 USD
+
+Historial De Conversiones*************************************
+Moneda Base: CLP
+Moneda a Cambiar: USD
+Cantidad: 565000
+Total: $565000.0 CLP Equivale a: $613.59 USD
+
+Historial De Conversiones*************************************
+Moneda Base: USD
+Moneda a Cambiar: ARS
+Cantidad: 1000
+Total: $1000.0 USD Equivale a: $864750.0 ARS
+
+Historial De Conversiones*************************************
+Moneda Base: CLP
+Moneda a Cambiar: COP
+Cantidad: 500000
+Total: $500000.0 CLP Equivale a: $2136250.0 COP
+
+Historial De Conversiones*************************************
+Moneda Base: BRL
+Moneda a Cambiar: USD
+Cantidad: 16828282
+Total: $1.6828282E7 BRL Equivale a: $3141840.2494 USD
+
+Historial De Conversiones*************************************
+Moneda Base: CLP
+Moneda a Cambiar: USD
+Cantidad: 1000
+Total: $1000.0 CLP Equivale a: $1.067 USD
+
