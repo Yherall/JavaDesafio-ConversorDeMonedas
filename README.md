@@ -7,7 +7,7 @@ ___
 ![IDE](https://img.shields.io/badge/IDE-Intellij_IDEA-blue)
 ![GSON](https://img.shields.io/badge/GSON-V2.11.0-blue)
 ___
-![GRÁFICA](https://img.freepik.com/fotos-premium/monedas-billetes-calculadora-calculos-financieros-presupuestos_902820-1578.jpg)
+![GRÁFICA](https://github.com/Yherall/JavaDesafio-ConversorDeMonedas/blob/main/img/Insignia%20Challenge%202%20Conversor%20de%20Monedas%20Java.png)
 ### <span style="font-size:larger;">Este proyecto permite al usuario convertir entre diferentes tipos de monedas utilizando una API!!.
 
 ### La API utilizada para este proyecto es  [ExchangeRate-API](https://www.exchangerate-api.com/).
